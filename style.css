@@ -1,0 +1,72 @@
+.login {
+    text-align: center;
+    margin: auto;
+    color: #551067;
+}
+
+.pass {
+    text-align: center;
+    vertical-align: 1px;
+    color: #551067;
+}
+
+.all {
+    border-radius: 10px;
+    border: 5px solid black;
+    background-color: none;
+}
+
+.main {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.entrance {
+   text-align: center;
+   margin: 50px; 
+   color:#551067;
+   border: 1em;
+}
+
+
+.bg {
+    background-image: url(images/background.jpg);
+    background-size: 100vw 1;
+    height: 700px;
+    width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.rimuru {
+    background-image: url(images/background.jpg);
+    background-size: 100vw 1;
+    height: 700px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main1 {
+    color:white;
+}
+
+body {
+    font-family: 'Peralta', cursive;
+}
+
+a {
+    color: #551067; 
+    text-align: left;
+}
+
+.login-btn {
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 5px solid black;
+    background-color: none;
+}
